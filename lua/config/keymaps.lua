@@ -10,4 +10,4 @@ end)
 
 -- Tabs
 keymap.set("n", "<tab>", ":tabnext<Return>")
-keymap.set("n", "<D-tab>", ":tabprev<Return>")
+keymap.set("n", "<S-tab>", ":tabprev<Return>")
